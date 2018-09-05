@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="XSLS.xslt"?>
+<NICK>
+    <STUDENT>
+        <SURNAME>Николай</SURNAME>
+        <NAME>Николай</NAME>
+        <PATRONYMIC>Лалилолай лалалай</PATRONYMIC>
+        <BALL>11</BALL>
+        <DATE>2018</DATE>
+       <h1> е блоыуа</h1>
+    </STUDENT>
+</NICK>
